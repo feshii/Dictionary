@@ -1,0 +1,11 @@
+v1={"id":101,"name":"Kamsi","age":8}  
+print(v1)
+print(v1["id"])
+print(v1["name"])
+print(v1["age"])
+v1["age"]=9
+print(v1)
+v2={}
+print(v2)
+v2["id"]=102
+}
